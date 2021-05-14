@@ -9,5 +9,7 @@
 ##### - 😄 Pronouns: he/him
 ##### - ⚡ Fun fact: I am currently learning how to play the acoustic guitar on my free time 🎸 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio)
 ![hellothere.jpg](https://rushter.com/counter.svg)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio)
+
