@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=monokai&show_icons=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=monokai&show_icons=true)
 
 ![hellothere.jpg](https://rushter.com/counter.svg)
 
