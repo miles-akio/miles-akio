@@ -17,5 +17,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=tokyonight)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=dark&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=monokai&show_icons=true)
 
