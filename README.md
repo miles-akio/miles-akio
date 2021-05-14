@@ -11,5 +11,9 @@
 
 ![hellothere.jpg](https://rushter.com/counter.svg)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio)
+
+[![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio)
 
