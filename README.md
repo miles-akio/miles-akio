@@ -10,4 +10,4 @@
 ##### - ⚡ Fun fact: I am currently learning how to play the acoustic guitar on my free time 🎸 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miles-akio&README.=miles-akio)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=miles-akio&README.md=miles-akio)
