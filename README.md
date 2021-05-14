@@ -6,9 +6,10 @@
 
 ![hellothere.jpg](https://rushter.com/counter.svg)
 
+[![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio&theme=monokai)
 
-[![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)
 
 
 
