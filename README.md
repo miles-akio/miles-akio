@@ -15,5 +15,7 @@
 
 [![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=tokyonight)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=miles-akio)
 
