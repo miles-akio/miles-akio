@@ -14,7 +14,7 @@
 
 
 
-##### - 🔭 I’m currently working on a basic restaurant website format
+##### - 🔭 I’m currently working on getting a bachelor's degree in CS
 ##### - 🌱 I’m currently learning Python and Java
 ##### - 👯 I’m looking to collaborate on future website and app formats
 ##### - 🤔 I’m looking for help with website & app development
