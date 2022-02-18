@@ -16,7 +16,7 @@
 
 
 ##### - 🔭 I’m currently working on getting a bachelor's degree in CS
-##### - 🌱 I’m currently learning Python, HTML and Java (maybe dabble in CSS & HTML5 if time persists)
+##### - 🌱 I’m currently learning Python, Java, HTML, CSS and JavaScript (in the near future)
 ##### - 👯 I’m looking to collaborate on future website and app formats
 ##### - 🤔 I’m looking for help with website & app development
 ##### - 💬 Ask me about sports, food, and Star Wars
