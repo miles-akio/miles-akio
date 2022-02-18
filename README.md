@@ -22,4 +22,4 @@
 ##### - 💬 Ask me about sports, food, and Star Wars
 ##### - 📫 Reach out to me via: LinkedIn
 ##### - 😄 Pronouns: he/him
-##### - ⚡ Fun fact: I am currently learning how to play the acoustic guitar on my free time 🎸 
+##### - ⚡ Fun fact: I am currently learning HTML, CSS & JavaScript languages via LinkedIn Learning 🎸 
