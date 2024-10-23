@@ -4,7 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psMjg2czcxcGcyeXpqOG01ZjhvcDc0NzR5aG1nNDJzbXNuOGliZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
 
-![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
+![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
 
 <p align="center">
     <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;">
