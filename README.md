@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm miles-akio</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Computer Science Student @ CSULB</h3>
 
-<br>
 <img align="right" alt="coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psMjg2czcxcGcyeXpqOG01ZjhvcDc0NzR5aG1nNDJzbXNuOGliZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
-<br>
 
 ![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
 
@@ -32,8 +30,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mshinmachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miles-akio" height="30" width="40" /></a>
-<a href="https://github.com/miles-akio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miles-akio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://raw.githubusercontent.com/miles-akio/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn Logo" width="40" height="40">
+</a>
+<a href="https://github.com/your-username">
+    <img src="https://raw.githubusercontent.com/miles-akio/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Logo" width="40" height="40">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
