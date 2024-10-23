@@ -10,11 +10,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
 
-![hellothere.jpg](https://rushter.com/counter.svg)
+![hellothere.jpg](https://rushter.com/counter.svg) [![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio) ![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio)
 
-[![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio)
 
 
 - 🔭 I’m currently working on **Mobile App Development, C, C++, React, Web-Socketing**
