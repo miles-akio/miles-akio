@@ -8,9 +8,14 @@
 
 ![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
 
-<div align="center">
-    ![hellothere.jpg](https://rushter.com/counter.svg)&nbsp;&nbsp;&nbsp;[![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)&nbsp;&nbsp;&nbsp;![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio)
-</div>
+<p align="center">
+    <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 10px;">
+    <a href="https://github.com/miles-akio">
+        <img src="https://img.shields.io/github/followers/miles-akio?label=Follow&style=social" alt="Github Followers" style="margin-right: 10px;">
+    </a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio" alt="Visitor Badge">
+</p>
+
 
 
 
