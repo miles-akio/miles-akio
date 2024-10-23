@@ -1,6 +1,6 @@
 ![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
-<h1 align="center">Hi 👋, I'm Jossyjoe</h1>
-<h3 align="center">A passionate fullstack develover interested in working remotely</h3>
+<h1 align="center">Hi 👋, I'm miles-akio</h1>
+<h3 align="center">An aspiring full-stack developer & senior Computer Science student @ CSULB interested in applying my skills</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jossyking99&label=Profile%20views&color=0e75b6&style=flat" alt="jossyking99" /> </p>
