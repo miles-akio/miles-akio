@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm miles-akio</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Computer Science Student @ CSULB</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psMjg2czcxcGcyeXpqOG01ZjhvcDc0NzR5aG1nNDJzbXNuOGliZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2psMjg2czcxcGcyeXpqOG01ZjhvcDc0NzR5aG1nNDJzbXNuOGliZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
 
 ![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)
 
