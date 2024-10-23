@@ -6,11 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jossyking99&label=Profile%20views&color=0e75b6&style=flat" alt="jossyking99" /> </p>
 
 
-![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)
+![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true)&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
+![hellothere.jpg](https://rushter.com/counter.svg)&nbsp;&nbsp;&nbsp;[![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio)&nbsp;&nbsp;&nbsp;![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio)
 
-![hellothere.jpg](https://rushter.com/counter.svg) [![Github](https://img.shields.io/github/followers/miles-akio?label=Follow&style=social)](https://github.com/miles-akio) ![](https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio)
 
 
 
