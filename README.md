@@ -8,6 +8,12 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=miles-akio)
+
+
 <p align="center">
     <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;">
     <a href="https://github.com/miles-akio">
