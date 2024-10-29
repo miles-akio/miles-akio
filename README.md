@@ -1,11 +1,11 @@
 ![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
-<h1 align="center">Hi 👋, I'm miles-akio</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Computer Science Student @ CSULB</h3>
+<h1 align="center">Hello There 👋, I'm miles-akio!</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Computer Science @ CSULB</h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true) ![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true) 
 
 <p align="center">
     <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;">
