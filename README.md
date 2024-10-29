@@ -1,11 +1,3 @@
-<p align="center">
-    <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;"> &nbsp; &nbsp; &nbsp; &nbsp;
-    <a href="https://github.com/miles-akio">
-        <img src="https://img.shields.io/github/followers/miles-akio?label=Follow&style=social" alt="Github Followers" style="margin-right: 30px;">
-    </a>
-    &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio" alt="Visitor Badge">
-</p>
-
 ![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -14,6 +6,14 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true" height="200" />
     <img src="https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true" height="200" />
+</p>
+
+<p align="center">
+    <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;"> &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="https://github.com/miles-akio">
+        <img src="https://img.shields.io/github/followers/miles-akio?label=Follow&style=social" alt="Github Followers" style="margin-right: 30px;">
+    </a>
+    &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio" alt="Visitor Badge">
 </p>
 
 <h1 align="center">Hello There 👋, I'm miles-akio!</h1>
