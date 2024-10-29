@@ -1,6 +1,3 @@
-<h1 align="center">Hello There 👋, I'm miles-akio!</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Computer Science @ CSULB</h3>
-
 <p align="center">
     <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;"> &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://github.com/miles-akio">
@@ -18,6 +15,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true" height="200" />
     <img src="https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true" height="200" />
 </p>
+
+<h1 align="center">Hello There 👋, I'm miles-akio!</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Computer Science @ CSULB</h3>
 
 - 🔭 I’m currently working on **Android Studio, Kotlin, Kafka, React, Web-Socketing**
 - 🌱 I’m currently learning **Android Studio, C++**
