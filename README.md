@@ -18,7 +18,7 @@
 
 
 <h1 align="center">About miles-akio</h1>
-- 🔭 I’m currently working on **Mobile App Development, C, C++, React, Web-Socketing**
+- 🔭 I’m currently working on **Android Studio, Kotlin, Kafka, React, Web-Socketing**
 
 - 🌱 I’m currently learning **Android Studio, C++**
 
