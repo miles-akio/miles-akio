@@ -1,12 +1,5 @@
-![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <h1 align="center">Hello There 👋, I'm miles-akio!</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Computer Science @ CSULB</h3>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true) ![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true) 
 
 <p align="center">
     <img src="https://rushter.com/counter.svg" alt="hellothere.jpg" style="margin-right: 30px;"> &nbsp; &nbsp; &nbsp; &nbsp;
@@ -16,16 +9,21 @@
     &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio" alt="Visitor Badge">
 </p>
 
+![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=miles-akio&theme=radical&show_icons=true&count_private=true" height="200" />
+</p>
+
 - 🔭 I’m currently working on **Android Studio, Kotlin, Kafka, React, Web-Socketing**
-
 - 🌱 I’m currently learning **Android Studio, C++**
-
 - 👯 I’m looking to collaborate on **on any projects**
-
 - 🤝 I’m looking for help with **Python, C**
-
 - 💬 Ask me about **React, C, Git, Node.js, JavaScript, Adobe**
-
 - ⚡ Fun fact **Project Manager by Day | Programmer by Night**
 
 <h3 align="left">Connect with me:</h3>
