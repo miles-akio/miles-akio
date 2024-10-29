@@ -1,7 +1,11 @@
 ![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
 
+<div align="center">
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miles-akio&theme=radical&show_icons=true&include_all_commits=true" height="200" />
