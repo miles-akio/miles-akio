@@ -1,9 +1,7 @@
 ![logo](https://github.com/miles-akio/miles-akio/blob/main/miles.jpg)
 
-<p align="center">
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h1 align="center">Hello There 👋, I'm miles-akio!</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Computer Science @ CSULB</h3>
