@@ -40,31 +40,40 @@
 
 <h3>🧠 Skills & Technologies</h3>
 </br>
+
 <h4>👨‍💻 Programming Languages</h4>
-`☕ Java        🟨 JavaScript (ES6+)     🟦 TypeScript     🟪 Kotlin  `
-`📄 XML        🐍 Python                🔤 C / C++  `
+
+`☕ Java` &nbsp; `🟨 JavaScript (ES6+)` &nbsp; `🟦 TypeScript` &nbsp; `🟪 Kotlin`  
+`📄 XML` &nbsp; `🐍 Python` &nbsp; `🔤 C / C++`
 
 </br>
 
 <h4>🧩 Frameworks & Libraries</h4>
+
+`⚛️ React / Redux` &nbsp; `📦 Next.js` &nbsp; `🟣 Laravel` &nbsp; `🎨 Tailwind CSS / Figma`
+
 </br>
-`⚛️ React / Redux      📦 Next.js       🟣 Laravel        🎨 Tailwind CSS / Figma  `
-`🧱 Backend & Databases`
-`🟩 Node.js       🐘 PostgreSQL       🐬 MySQL       🟥 Redis  `
-`🔥 Firebase      ☁️ AWS              ☁️ Azure  `
+
+<h4>🧱 Backend & Databases</h4>
+
+`🟩 Node.js` &nbsp; `🐘 PostgreSQL` &nbsp; `🐬 MySQL` &nbsp; `🟥 Redis`  
+`🔥 Firebase` &nbsp; `☁️ AWS` &nbsp; `☁️ Azure`
 
 </br>
 
 <h4>🛠️ Tools & Platforms</h4>
-<br>
-🐙 Git / GitHub       🐳 Docker       ☸️ Kubernetes     ⚙️ CI/CD Pipeline  
-🛡️ VPN               🔌 WebSocket    📝 WordPress      🧑‍💻 Jira  
-📅 Scrum             🚀 Agile         📋 Project Management  
-🧠 Additional Technologies
-🧠 Machine Learning     🟠 Kafka     💳 Stripe     📡 Network Analysis  
-🤖 Android Studio       🌐 HTML5 / REST API  
+
+`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  
+`🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; `📝 WordPress` &nbsp; `🧑‍💻 Jira`  
+`📅 Scrum` &nbsp; `🚀 Agile` &nbsp; `📋 Project Management`
 
 </br>
+
+<h4>🔍 Additional Technologies</h4>
+
+`🧠 Machine Learning` &nbsp; `🟠 Kafka` &nbsp; `💳 Stripe` &nbsp; `📡 Network Analysis`  
+`🤖 Android Studio` &nbsp; `🌐 HTML5 / REST API`
+
 
 <h3>📬 Connect With Me</h3>
 
