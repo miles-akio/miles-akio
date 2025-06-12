@@ -20,7 +20,7 @@
     &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://visitor-badge.laobi.icu/badge?page_id=miles-akio.miles-akio" alt="Visitor Badge">
 </p>
 
-<h1 align="center">Hello There 👋, I'm miles-akio!</h1>
+<h1 align="center">Hello There 👋, I'm miles!</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Computer Science Graduate from California State University, Long Beach</h3>
 
 - 🔭 I’m currently working on **Android Studio, Kotlin, Kafka, React, Web-Socketing**
