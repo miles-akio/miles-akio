@@ -27,7 +27,7 @@
 ---
 
 # `Hello There 👋, I'm Miles!`
-### `Aspiring Full-Stack Developer | CS Grad @ California State University, Long Beach`
+### `Aspiring Full-Stack Developer | CS Grad From CSULB`
 
 
 
