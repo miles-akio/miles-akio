@@ -37,8 +37,8 @@
 - 💬 `Ask me about: React, Node.js, Git, Adobe Suite`
 - ⚡ `Fun fact: Project Manager by Day | Programmer by Night`
 
+## `🧠 Skills & Technologies`
 
-##🧠 `Skills & Technologies`
 
 </br>
 
