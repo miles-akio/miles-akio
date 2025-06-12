@@ -25,16 +25,16 @@
 
 ---
 
-<h1 align="center">Hello There 👋, I'm Miles!</h1>
-<h3 align="center">Aspiring Full-Stack Developer | CS Graduate @ California State University, Long Beach</h3>
+<h1 align="center">`Hello There 👋, I'm Miles!`</h1>
+<h3 align="center">`Aspiring Full-Stack Developer | CS Graduate @ California State University, Long Beach`</h3>
 
 
-~ 🔭 Currently working on: **Android Studio, Kotlin, Kafka, React, WebSocketing**
-~ 🌱 Learning: **C, Amazon Web Services, CI/CD, Flutter**
-~ 👯 Open to collaborate on: **Full-stack or cloud-native projects**
-~ 🤝 Looking for help with: **C, Advanced Python**
-~ 💬 Ask me about: **React, Node.js, Git, Adobe Suite**
-~ ⚡ Fun fact: **Project Manager by Day | Programmer by Night**
+- 🔭 Currently working on: **Android Studio, Kotlin, Kafka, React, WebSocketing**
+- 🌱 Learning: **C, Amazon Web Services, CI/CD, Flutter**
+- 👯 Open to collaborate on: **Full-stack or cloud-native projects**
+- 🤝 Looking for help with: **C, Advanced Python**
+- 💬 Ask me about: **React, Node.js, Git, Adobe Suite**
+- ⚡ Fun fact: **Project Manager by Day | Programmer by Night**
 
 
 <h3>🧠 Skills & Technologies</h3>
