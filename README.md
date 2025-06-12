@@ -38,13 +38,13 @@
 - ⚡ `Fun fact: Project Manager by Day | Programmer by Night`
 
 
-<h3>🧠 Skills & Technologies</h3>
+<h3>🧠 `Skills & Technologies`</h3>
 </br>
 
-<h4>👨‍💻 Programming Languages</h4>
+<h4>👨‍💻 `Programming Languages`</h4>
 
-`☕ Java` &nbsp; `🟨 JavaScript (ES6+)` &nbsp; `🟦 TypeScript` &nbsp; `🟪 Kotlin`  
-`📄 XML` &nbsp; `🐍 Python` &nbsp; `🔤 C / C++`
+`☕ Java` &nbsp; `🟨 JavaScript (ES6+)` &nbsp; `🟦 TypeScript` &nbsp; 
+`🟪 Kotlin`  &nbsp; `📄 XML` &nbsp; `🐍 Python` &nbsp; `🔤 C / C++`
 
 </br>
 
