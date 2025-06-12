@@ -41,17 +41,17 @@
 <h3>🧠 Skills & Technologies</h3>
 </br>
 <h4>👨‍💻 Programming Languages</h4>
-☕ Java        🟨 JavaScript (ES6+)     🟦 TypeScript     🟪 Kotlin  
-📄 XML        🐍 Python                🔤 C / C++  
+`☕ Java        🟨 JavaScript (ES6+)     🟦 TypeScript     🟪 Kotlin  `
+`📄 XML        🐍 Python                🔤 C / C++  `
 
 </br>
 
 <h4>🧩 Frameworks & Libraries</h4>
 </br>
-⚛️ React / Redux      📦 Next.js       🟣 Laravel        🎨 Tailwind CSS / Figma  
-🧱 Backend & Databases
-🟩 Node.js       🐘 PostgreSQL       🐬 MySQL       🟥 Redis  
-🔥 Firebase      ☁️ AWS              ☁️ Azure  
+`⚛️ React / Redux      📦 Next.js       🟣 Laravel        🎨 Tailwind CSS / Figma  `
+`🧱 Backend & Databases`
+`🟩 Node.js       🐘 PostgreSQL       🐬 MySQL       🟥 Redis  `
+`🔥 Firebase      ☁️ AWS              ☁️ Azure  `
 
 </br>
 
