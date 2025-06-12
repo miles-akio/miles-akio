@@ -21,10 +21,10 @@
 </p>
 
 <h1 align="center">Hello There 👋, I'm miles-akio!</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Computer Science @ CSULB</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Computer Science Graduate from California State University, Long Beach</h3>
 
 - 🔭 I’m currently working on **Android Studio, Kotlin, Kafka, React, Web-Socketing**
-- 🌱 I’m currently learning **Android Studio, C++**
+- 🌱 I’m currently learning **Android Studio, C and Amazon Web Services++**
 - 👯 I’m looking to collaborate on **on any projects**
 - 🤝 I’m looking for help with **Python, C**
 - 💬 Ask me about **React, C, Git, Node.js, JavaScript, Adobe**
