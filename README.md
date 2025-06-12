@@ -25,8 +25,9 @@
 
 ---
 
-<h1 align="center">`Hello There 👋, I'm Miles!`</h1>
-<h3 align="center">`Aspiring Full-Stack Developer | CS Graduate @ California State University, Long Beach`</h3>
+# `Hello There 👋, I'm Miles!`
+### `Aspiring Full-Stack Developer | CS Graduate @ California State University, Long Beach`
+
 
 
 - 🔭 Currently working on: **Android Studio, Kotlin, Kafka, React, WebSocketing**
