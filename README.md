@@ -39,10 +39,8 @@
 - ⚡ `Fun fact: Project Manager by Day | Programmer by Night`
 
 
+
 ## `🧠 Skills & Technologies`
-
-
-</br>
 
 ### `👨‍💻 Programming Languages`
 
