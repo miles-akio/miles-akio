@@ -48,20 +48,20 @@
 
 </br>
 
-<h4>🧩 Frameworks & Libraries</h4>
+<h4>🧩 `Frameworks & Libraries`</h4>
 
 `⚛️ React / Redux` &nbsp; `📦 Next.js` &nbsp; `🟣 Laravel` &nbsp; `🎨 Tailwind CSS / Figma`
 
 </br>
 
-<h4>🧱 Backend & Databases</h4>
+<h4>🧱 `Backend & Databases`</h4>
 
 `🟩 Node.js` &nbsp; `🐘 PostgreSQL` &nbsp; `🐬 MySQL` &nbsp; 
 `🟥 Redis`  &nbsp; `🔥 Firebase` &nbsp; `☁️ AWS` &nbsp; `☁️ Azure`
 
 </br>
 
-<h4>🛠️ Tools & Platforms</h4>
+<h4>🛠️ `Tools & Platforms`</h4>
 
 `🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  
 `🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; `📝 WordPress` &nbsp; `🧑‍💻 Atlassan Jira`  
@@ -69,10 +69,19 @@
 
 </br>
 
-<h4>🔍 Additional Technologies</h4>
+<h4>🔍 `Additional Technologies`</h4>
 
 `🧠 Machine Learning` &nbsp; `🟠 Kafka` &nbsp; `💳 Stripe` &nbsp; `📡 Network Analysis`  
 `🤖 Android Studio` &nbsp; `🌐 HTML5 / REST API`
+
+
+</br>
+
+
+
+
+
+
 
 
 <h3>📬 Connect With Me</h3>
