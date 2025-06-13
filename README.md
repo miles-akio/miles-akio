@@ -63,14 +63,14 @@
 
 ### `🛠️ Tools & Platforms`
 
-`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  &nbsp; `🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; `📝 WordPress` &nbsp; `🧑‍💻 Atlassan Jira`  &nbsp; `📅 Scrum` &nbsp; `🚀 Agile` &nbsp; `📋 Project Management`
+`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  &nbsp; `🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; 
+`📝 WordPress` &nbsp; `🧑‍💻 Atlassan Jira`  &nbsp; `📅 Scrum` &nbsp; `🚀 Agile` &nbsp; `📋 Project Management`
 
 </br>
 
 ### `🔍 Additional Technologies`
 
-`🧠 Machine Learning` &nbsp; `🟠 Kafka` &nbsp; `💳 Stripe` &nbsp; `📡 Network Analysis`  
-`🤖 Android Studio` &nbsp; `🌐 HTML5 / REST API`
+`🧠 Machine Learning` &nbsp; `🟠 Kafka` &nbsp; `💳 Stripe` &nbsp; `📡 Network Analysis`  &nbsp; `🤖 Android Studio` &nbsp; `🌐 HTML5 / REST API`
 
 </br>
 
