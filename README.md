@@ -57,16 +57,13 @@
 
 ### `🧱 Backend & Databases`
 
-`🟩 Node.js` &nbsp; `🐘 PostgreSQL` &nbsp; `🐬 MySQL` &nbsp; 
-`🟥 Redis`  &nbsp; `🔥 Firebase` &nbsp; `☁️ AWS` &nbsp; `☁️ Azure`
+`🟩 Node.js` &nbsp; `🐘 PostgreSQL` &nbsp; `🐬 MySQL` &nbsp; `🟥 Redis`  &nbsp; `🔥 Firebase` &nbsp; `☁️ AWS` &nbsp; `☁️ Azure`
 
 </br>
 
 ### `🛠️ Tools & Platforms`
 
-`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  
-`🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; `📝 WordPress` &nbsp; `🧑‍💻 Atlassan Jira`  
-`📅 Scrum` &nbsp; `🚀 Agile` &nbsp; `📋 Project Management`
+`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  &nbsp; `🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; `📝 WordPress` &nbsp; `🧑‍💻 Atlassan Jira`  &nbsp; `📅 Scrum` &nbsp; `🚀 Agile` &nbsp; `📋 Project Management`
 
 </br>
 
