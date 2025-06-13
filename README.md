@@ -78,13 +78,9 @@
 
 </br>
 <p align="left"> <a href="https://www.linkedin.com/in/mshinmachi/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" /> </a> 
-  
   <a href="mailto:miles.shinmachi@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge" /> </a> 
-  
   <a href="https://github.com/miles-akio" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge" /> </a> 
-  
   <a href="https://milesshinmachi.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio Badge" /> </a> 
-  
   <a href="https://milesshinmachi.netlify.app/static/media/Miles%20Shinmachi%20-%20Resume.e88147eaa90958a9b47a.pdf" target="_blank"> <img src="https://img.shields.io/badge/Resume-Download-0072b1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge" /> </a> 
 </p>
 </br>
