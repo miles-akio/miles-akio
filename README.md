@@ -63,7 +63,7 @@
 
 ### `🛠️ Tools & Platforms`
 
-`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  &nbsp; `🛡️ VPN` &nbsp; `🔌 WebSocket` &nbsp; 
+`🐙 Git / GitHub` &nbsp; `🐳 Docker` &nbsp; `☸️ Kubernetes` &nbsp; `⚙️ CI/CD Pipeline`  &nbsp; `🛡️ VPN` &nbsp; `🔌 WebSocket`  
 `📝 WordPress` &nbsp; `🧑‍💻 Atlassan Jira`  &nbsp; `📅 Scrum` &nbsp; `🚀 Agile` &nbsp; `📋 Project Management`
 
 </br>
