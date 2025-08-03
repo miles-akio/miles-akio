@@ -27,7 +27,7 @@
 ---
 
 # `Hello There 👋, I'm Miles!`
-### `Aspiring Full-Stack Developer | Computer Science Graduate From CSULB`
+### `Aspiring Full-Stack  & Artificial Intelligence Developer | Computer Science Graduate From CSULB`
 
 
 
