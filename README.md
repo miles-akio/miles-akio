@@ -139,20 +139,6 @@ fun_fact:      Project Manager by day · Programmer by night 🌙
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 *`"First, solve the problem. Then, write the code." — John Johnson`*
