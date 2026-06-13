@@ -129,16 +129,6 @@ fun_fact:      Project Manager by day · Programmer by night 🌙
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=miles-akio&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 *`"First, solve the problem. Then, write the code." — John Johnson`*
