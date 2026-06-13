@@ -4,15 +4,6 @@
 
 <br/>
 
-<div align="center">
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
-<br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%26+AI+Specialist;Computer+Science+Graduate+%40+California+State+University%2C+Long+Beach;Building+with+React+%7C+Kotlin+%7C+Kafka+%7C+AWS;Project+Manager+by+Day+%7C+Coder+by+Night+%F0%9F%8C%99)](https://git.io/typing-svg)
 
 <br/>
@@ -128,6 +119,13 @@ fun_fact:      Project Manager by day · Programmer by night 🌙
 </div>
 
 ---
+
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
 
 <div align="center">
 
