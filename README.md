@@ -3,6 +3,7 @@
 <img src="https://github.com/user-attachments/assets/c9fe1f52-2cd1-462e-a7a0-5eaf4c7c93c1" width="100%" alt="Miles Shinmachi Banner" />
 
 <br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%26+AI+Specialist;Computer+Science+Graduate+%40+California+State+University%2C+Long+Beach;Building+with+React+%7C+Kotlin+%7C+Kafka+%7C+AWS;Project+Manager+by+Day+%7C+Coder+by+Night+%F0%9F%8C%99)](https://git.io/typing-svg)
 
