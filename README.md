@@ -88,9 +88,6 @@
 
 ---
 
-![logo](https://github.com/user-attachments/assets/c9fe1f52-2cd1-462e-a7a0-5eaf4c7c93c1)
-
-
 <div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
