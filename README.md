@@ -88,16 +88,18 @@
 
 ---
 
+
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c9fe1f52-2cd1-462e-a7a0-5eaf4c7c93c1" width="100%" alt="Miles Shinmachi Banner" />
+
 <div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
-
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/c9fe1f52-2cd1-462e-a7a0-5eaf4c7c93c1" width="100%" alt="Miles Shinmachi Banner" />
 
 <br/><br/>
 
