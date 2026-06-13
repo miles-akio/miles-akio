@@ -36,8 +36,8 @@
 
 ```yaml
 name:          Miles Shinmachi
-role:          Full-Stack Software Engineer
-education:     B.S. Computer Science — Cal State Long Beach
+role:          Full-Stack Software Engineer & Artificial Intelligence Specialist
+education:     B.S. Computer Science — California State University, Long Beach
 location:      Southern California, USA 🌴
 
 currently_building:
